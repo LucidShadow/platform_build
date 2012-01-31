@@ -401,7 +401,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("")
   script.Print("************************************************")
   script.Print("*                                              *")
-  script.Print("*              LucidROM Android ICS            *")
+  script.Print("*              LucidROM Android 4.0            *")
   script.Print("*            Where Innovation is Born          *")
   script.Print("*            www.gplus.to/lucidshadow          *")
   script.Print("*                                              *")
